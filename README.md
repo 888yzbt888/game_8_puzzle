@@ -1,4 +1,4 @@
-Prerequisites
+Prerequisites\n
     Python 2/3
     pygame
     Numpy
