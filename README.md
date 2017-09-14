@@ -1,5 +1,5 @@
 Prerequisites  
-        Python 2/3  
+    Python 2/3  
     pygame  
     Numpy  
 To play game  
