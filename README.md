@@ -1,7 +1,7 @@
 Prerequisites  
-                Python 2/3  
-                pygame  
-                Numpy  
+        Python 2/3  
+    pygame  
+    Numpy  
 To play game  
         Run game_8_puzzle.py  
         Use keyboard "UP""LEFT""DOWN""RIGHT" to control  
